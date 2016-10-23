@@ -1,7 +1,10 @@
-body {
+body
+{
     background-color: #f1f2d2;
 }
 
-h1 {
-    align:center;
+h1
+{  
+    text-align: center;
+    border: 3px solid green;
 }
