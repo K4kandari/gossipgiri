@@ -1,23 +1,23 @@
 body
 {
-    background-color: #f1f2d2;
+    background-color: #ffb366;
 }
 
 h1
 {  
     text-align: center;
-    border: 3px solid green;
+    border: 4px solid red;
 }
 h2
 {
    text-align: center; 
-   color: #a30616;
+   color: #000099;
 }
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 10px;
-    background-color: #f1f1f1;
+    padding: 20px;
+    background-color: #ff8c1a;
 }
 
 li a {
@@ -29,6 +29,6 @@ li a {
 
 /* Change the link color on hover */
 li a:hover {
-    background-color: #555;
+    background-color: #b35900;
     color: white;
 }
